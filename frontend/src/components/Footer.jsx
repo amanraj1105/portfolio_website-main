@@ -5,8 +5,8 @@ function Footer() {
     return (
         <div className="footer bg-yellow-500 dark:bg-[#111827] pb-6">
             <div className="name font-medium dark:text-slate-300/90 text-xl   mb-10 text-center">
-                <p>© Kumar Shivam </p>
-                <p>2002</p>
+                <p>© Aman Raj </p>
+                <p>2025</p>
 
             </div>
             <div>
@@ -46,7 +46,7 @@ function Footer() {
                         <span className="sr-only">Twitter page</span>
                     </a>
                     <a
-                        href="https://www.instagram.com/kumarshivam_09/"
+                        href="https://www.instagram.com/_.aman.rai._/"
                         className="text-black/70 dark:text-gray-500 hover:text-gray-900 hover:scale-[2] scale-[1.5] duration-200 dark:hover:text-white"
                     >
                         <svg
@@ -65,7 +65,7 @@ function Footer() {
                     </a>
 
                     <a
-                        href="https://github.com/legendary0911"
+                        href="https://github.com/amanraj1105"
                         className="text-black/70 dark:text-gray-500 hover:text-gray-900 hover:scale-[2] scale-[1.5] duration-200 dark:hover:text-white"
                     >
                         <svg

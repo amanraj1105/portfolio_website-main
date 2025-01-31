@@ -8,7 +8,7 @@ function ProjectCard(props) {
     return (
 
         <div className="">
-            <div data-aos="zoom-in-up" data-aos-duration="600" class=" max-w-sm shadow-lg hover:shadow-xl shadow-black/70 hover:shadow-black/80 hover:scale-150 duration-200 mx-4 my-4 bg-[#111827] rounded-lg border border-gray-200 shadow-md  dark:border-gray-700">
+            <div data-aos="zoom-in-up" data-aos-duration="600" class=" max-w-sm shadow-md hover:shadow-xl shadow-black/70 hover:shadow-black/80 hover:scale-150 duration-200 mx-4 my-4 bg-[#111827] rounded-lg border border-gray-200 shadow-md  dark:border-gray-700">
                 <a >
                     <img class="rounded-t-lg mx-auto w-[100%]" src={props.img} alt=""></img>
                 </a>

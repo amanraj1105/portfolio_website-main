@@ -20,7 +20,7 @@ function Intro() {
 
             <p className=" relative   bottom-3 md:bottom-6 left-1 font-semibold  tracking-wider text-red-600 dark:text-yellow-500 ">Namaskar,It's</p>
             <p id="name" className="h-40 w-fit"> <Typewriter options={{
-              strings: ['kumar shivam'],
+              strings: ['Aman Raj'],
               autoStart: true,
               loop: true,
               wrapperClassName: "font-title text-[5rem] sm:text-[6rem] md:text-[7rem] lg:text-[8rem] bg-gradient-to-r text-transparent bg-clip-text dark:from-white dark:via-slate-300 dark:to-slate-800 from-black via-[#111827]  to-yellow-600 ",
@@ -31,22 +31,22 @@ function Intro() {
             }} /></p>
           </div>
           <div id="bio" className=" flex-col font-medium text-lg lg:text-xl lg:mt-16  font-alb  mb-20 ">
-            <p>I am a CSE Undergraduate at BIT,Mesra</p>
-            <p>I am a web developer and a competitive programmer </p>
+            <p>I am a CSE Undergraduate at SRM,KTR</p>
+            <p>I am a web developer and a programmer </p>
 
 
           </div>
           <div id="button">
             <button className=" scale-75 md:scale-100 md:hover:scale-105  hover:scale-90 rounded-2xl  shadow-2xl bg-purple-500 hover:bg-purple-600 cursor-pointer text-white px-8 py-5 mt-10 ease-in-out duration-200"><a href="#contact"> Let's Talk  <SendIcon className=" -rotate-[20deg] ml-2 mb-2" /></a></button>
-            <button className="scale-75 md:scale-100  md:ml-10 md:hover:scale-105 hover:scale-90 rounded-2xl  shadow-2xl hover:bg-[#111827] dark:hover:bg-slate-100 dark:bg-white bg-[#111827]/80 text-white cursor-pointer dark:text-black px-8 py-5 mt-1 md:mt-10 ease-in-out duration-200"><a href="https://drive.google.com/file/d/14GGhMsIs0-A9WMk4fW0dMuJz7GalZgE6/view?usp=drive_link" download >Resume <CallMadeIcon className=" rotate-[20deg] ml-2 mb-2" /></a></button>
+            <button className="scale-75 md:scale-100  md:ml-10 md:hover:scale-105 hover:scale-90 rounded-2xl  shadow-2xl hover:bg-[#111827] dark:hover:bg-slate-100 dark:bg-white bg-[#111827]/80 text-white cursor-pointer dark:text-black px-8 py-5 mt-1 md:mt-10 ease-in-out duration-200"><a href="https://drive.google.com/file/d/18ZwDv44N-qaiJPr8GJAEQSox5OAg3ReV/view?usp=drive_link" download >Resume <CallMadeIcon className=" rotate-[20deg] ml-2 mb-2" /></a></button>
             <div className="flex mt-12 space-x-3 md:space-x-10 mb-20">
               <div className="text-lg font-semibold mt-[18px]">Checkout my</div>
               <button className=" rounded-full  text-black bg-slate-200 h-16 w-16 hover:scale-110 hover:bg-slate-300  ease-in-out duration-200">
-                <a href="https://www.instagram.com/kumarshivam_09/"><InstagramIcon id="insta" className=" scale-100 md:scale-125   lg:scale-150 text-2xl" /></a>
+                <a href="https://www.instagram.com/_.aman.rai._/"><InstagramIcon id="insta" className=" scale-100 md:scale-125   lg:scale-150 text-2xl" /></a>
               </button>
 
               <button className="rounded-full  text-black bg-slate-200 h-16 w-16 hover:scale-110 hover:bg-slate-300   ease-in-out duration-200">
-                <a href="https://github.com/legendary0911"><GitHubIcon id="git" className="scale-100 md:scale-125  lg:scale-150 " /></a>
+                <a href="https://github.com/amanraj1105"><GitHubIcon id="git" className="scale-100 md:scale-125  lg:scale-150 " /></a>
               </button>
 
               <div>

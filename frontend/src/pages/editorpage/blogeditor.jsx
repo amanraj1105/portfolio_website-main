@@ -100,7 +100,7 @@ const BlogEditor = () => {
             texteditor.save().then(async content => {
                 try {
                     let blogObj = {
-                        title, banner, des, content, author: "Kumar Shivam", draft: true, token: userdata.token
+                        title, banner, des, content, author: "Aman Raj", draft: true, token: userdata.token
                     }
 
                     const response = await axios.post("http://localhost:3000/api/blogs", blogObj)

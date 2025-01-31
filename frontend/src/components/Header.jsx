@@ -38,7 +38,7 @@ function Header() {
                 {
                     title: "My Admin Blog final Post",
                     content: "This is the content of my second blog post.",
-                    author: "shivam",
+                    author: "aman",
                     "token": userdata.token
 
                 }
@@ -76,7 +76,7 @@ function Header() {
                     <div className=" text-lg md:text-xl lg:text-2xl font-[620] pl-[7%] pt-8">
                         <ul id="animate" className="space-y-1">
                             <a id="link" href="/">
-                                <li className="">Kumar <span className="dark:text-yellow-500 text-20d-600 pb-4">Shivam </span></li>
+                                <li className="">Aman <span className="dark:text-yellow-500 text-20d-600 pb-4">Raj </span></li>
                             </a>
                         </ul>
                     </div>

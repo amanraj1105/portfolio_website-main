@@ -43,7 +43,7 @@ const PublishForm = () => {
 
             e.target.classList.add('disable');
             let blogObj = {
-                title, banner, des, content, author: "Kumar Shivam", draft: false, token: userdata.token
+                title, banner, des, content, author: "Aman Raj", draft: false, token: userdata.token
             }
 
             const response = await axios.post("http://localhost:3000/api/blogs", blogObj)
