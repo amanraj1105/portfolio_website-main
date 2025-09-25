@@ -86,7 +86,7 @@ function Contact() {
                 <div class="  py-8 lg:py-16 px-4 mx-auto max-w-screen-md">
                     <div className="items-center">
                         <h2 class="mb-10 mt-10 font-alb text-5xl md:text-6xl lg:text-7xl tracking-tight font-[600] text-center text-white bg-blue-700 rounded-2xl py-4">Contact Me</h2>
-                        <p class=" mb-64 font-normal text-center text-white  sm:text-xl">Got a technical issue? Want to send feedback ? Need details about our Business plan? Let me know.</p>
+                        <p class=" mb-64 font-normal text-center text-white  sm:text-xl">Got a technical issue? Want to send feedback ? Let me know.</p>
                     </div>
                 </div>
             </section>
